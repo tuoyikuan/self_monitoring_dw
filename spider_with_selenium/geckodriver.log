@@ -1,0 +1,915 @@
+1615260979527	geckodriver	INFO	Listening on 127.0.0.1:61403
+1615260980047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile2WYEut"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615260984230	Marionette	INFO	Listening on port 61808
+1615260984321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615260987256	Marionette	INFO	Stopped listening on port 61808
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1615261802642	geckodriver	INFO	Listening on 127.0.0.1:61898
+1615261803162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile3Mtap2"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615261807934	Marionette	INFO	Listening on port 61903
+1615261807979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615261813844	Marionette	INFO	Stopped listening on port 61903
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615261936791	geckodriver	INFO	Listening on 127.0.0.1:53804
+1615261937321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileTAHsHP"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615261941452	Marionette	INFO	Listening on port 53810
+1615261941529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615261948257	Marionette	INFO	Stopped listening on port 53810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615262267585	geckodriver	INFO	Listening on 127.0.0.1:53958
+1615262268088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileHw9X4f"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615262272120	Marionette	INFO	Listening on port 53963
+1615262272257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615262275749	Marionette	INFO	Stopped listening on port 53963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615262400788	geckodriver	INFO	Listening on 127.0.0.1:54026
+1615262401266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileuk2Onu"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615262405003	Marionette	INFO	Listening on port 54031
+1615262405405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615262410676	Marionette	INFO	Stopped listening on port 54031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615262471153	geckodriver	INFO	Listening on 127.0.0.1:54087
+1615262471668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileAPqbbq"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615262475194	Marionette	INFO	Listening on port 54092
+1615262475318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615262478664	Marionette	INFO	Stopped listening on port 54092
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615262583935	geckodriver	INFO	Listening on 127.0.0.1:54152
+1615262584442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileGw3qnL"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615262588374	Marionette	INFO	Listening on port 54157
+1615262588632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615262633747	Marionette	INFO	Stopped listening on port 54157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615262712710	geckodriver	INFO	Listening on 127.0.0.1:54218
+1615262713209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilerUtIPh"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615262716587	Marionette	INFO	Listening on port 54223
+1615262716874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615262720845	Marionette	INFO	Stopped listening on port 54223
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615262891519	geckodriver	INFO	Listening on 127.0.0.1:54347
+1615262892046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileUjwwFi"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615262896084	Marionette	INFO	Listening on port 54352
+1615262896210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615262899982	Marionette	INFO	Stopped listening on port 54352
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615262930233	geckodriver	INFO	Listening on 127.0.0.1:54399
+1615262930730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile6zfLfk"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615262934369	Marionette	INFO	Listening on port 54404
+1615262934902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615262938424	Marionette	INFO	Stopped listening on port 54404
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615262950918	geckodriver	INFO	Listening on 127.0.0.1:54462
+1615262951435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilejffuUU"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615262954928	Marionette	INFO	Listening on port 54467
+1615262955100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615262958826	Marionette	INFO	Stopped listening on port 54467
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615263317714	geckodriver	INFO	Listening on 127.0.0.1:54541
+1615263318232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileKbqq0n"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615263322193	Marionette	INFO	Listening on port 54546
+1615263322381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615263324581	Marionette	INFO	Stopped listening on port 54546
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615263347072	geckodriver	INFO	Listening on 127.0.0.1:54597
+1615263347578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile4omoUk"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615263351135	Marionette	INFO	Listening on port 54602
+1615263351251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615263353229	Marionette	INFO	Stopped listening on port 54602
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615269811317	geckodriver	INFO	Listening on 127.0.0.1:62614
+1615269811843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileRkI93b"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615269815914	Marionette	INFO	Listening on port 62619
+1615269816036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615269828812	Marionette	INFO	Stopped listening on port 62619
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A011C,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615269854089	geckodriver	INFO	Listening on 127.0.0.1:62685
+1615269854575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilenYOAgg"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615269858312	Marionette	INFO	Listening on port 62690
+1615269858724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615269871433	Marionette	INFO	Stopped listening on port 62690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615269979980	geckodriver	INFO	Listening on 127.0.0.1:62754
+1615269980482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileo0eolj"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615269984440	Marionette	INFO	Listening on port 62759
+1615269984640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615269990707	Marionette	INFO	Stopped listening on port 62759
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615270074743	geckodriver	INFO	Listening on 127.0.0.1:61087
+1615270075250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile2w4y3d"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615270078979	Marionette	INFO	Listening on port 61092
+1615270079402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615270082176	Marionette	INFO	Stopped listening on port 61092
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615270270102	geckodriver	INFO	Listening on 127.0.0.1:61189
+1615270270609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilepwS0hS"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615270274512	Marionette	INFO	Listening on port 61194
+1615270274757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615270277600	Marionette	INFO	Stopped listening on port 61194
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615270286996	geckodriver	INFO	Listening on 127.0.0.1:61245
+1615270287501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilewQRcZm"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615270291768	Marionette	INFO	Listening on port 61250
+1615270292245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615270295039	Marionette	INFO	Stopped listening on port 61250
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615270328685	geckodriver	INFO	Listening on 127.0.0.1:61307
+1615270329211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileZizRO5"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615270332858	Marionette	INFO	Listening on port 61312
+1615270333385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615270337429	Marionette	INFO	Stopped listening on port 61312
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615270514148	geckodriver	INFO	Listening on 127.0.0.1:61386
+1615270514657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile5Rukl6"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615270518833	Marionette	INFO	Listening on port 61391
+1615270518936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615270521945	Marionette	INFO	Stopped listening on port 61391
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615270619882	geckodriver	INFO	Listening on 127.0.0.1:61842
+1615270620386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilemJk9Gn"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615270624194	Marionette	INFO	Listening on port 61847
+1615270624554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615270628020	Marionette	INFO	Stopped listening on port 61847
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615270742101	geckodriver	INFO	Listening on 127.0.0.1:62308
+1615270742627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileFQZJRy"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615270746394	Marionette	INFO	Listening on port 62313
+1615270746768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615270750097	Marionette	INFO	Stopped listening on port 62313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615270954504	geckodriver	INFO	Listening on 127.0.0.1:62486
+1615270955025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofiledSar1n"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615270959696	Marionette	INFO	Listening on port 62491
+1615270959793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615270963467	Marionette	INFO	Stopped listening on port 62491
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615271116720	geckodriver	INFO	Listening on 127.0.0.1:62557
+1615271117227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileS2GPhO"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615271121339	Marionette	INFO	Listening on port 62562
+1615271121382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615271201607	geckodriver	INFO	Listening on 127.0.0.1:62642
+1615271202115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilefxUHYU"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615271205806	Marionette	INFO	Listening on port 62647
+1615271206265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615271332016	geckodriver	INFO	Listening on 127.0.0.1:62722
+1615271332520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileYI2s0f"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615271336595	Marionette	INFO	Listening on port 62727
+1615271336680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615271340876	Marionette	INFO	Stopped listening on port 62727
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615271362024	geckodriver	INFO	Listening on 127.0.0.1:62771
+1615271362685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilefTNimM"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615271367430	Marionette	INFO	Listening on port 62776
+1615271367939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615271371504	Marionette	INFO	Stopped listening on port 62776
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615271417703	geckodriver	INFO	Listening on 127.0.0.1:62830
+1615271418211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileYGvKBL"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615271421771	Marionette	INFO	Listening on port 62835
+1615271421870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615271425764	Marionette	INFO	Stopped listening on port 62835
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615271597633	geckodriver	INFO	Listening on 127.0.0.1:62891
+1615271598135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile62JaxI"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615271601948	Marionette	INFO	Listening on port 62896
+1615271602288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615271607570	Marionette	INFO	Stopped listening on port 62896
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615271632767	geckodriver	INFO	Listening on 127.0.0.1:62955
+1615271633282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilehDxsww"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615271636894	Marionette	INFO	Listening on port 62960
+1615271636926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615271640941	Marionette	INFO	Stopped listening on port 62960
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615271672328	geckodriver	INFO	Listening on 127.0.0.1:63022
+1615271672855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilemT3qLQ"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615271676345	Marionette	INFO	Listening on port 63027
+1615271676506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615272043837	geckodriver	INFO	Listening on 127.0.0.1:63181
+1615272044341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilezi51Mf"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615272048129	Marionette	INFO	Listening on port 63186
+1615272048504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615272053230	Marionette	INFO	Stopped listening on port 63186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615272099621	geckodriver	INFO	Listening on 127.0.0.1:63235
+1615272100132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileZY4YyC"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615272103836	Marionette	INFO	Listening on port 63240
+1615272104283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615272149029	Marionette	INFO	Stopped listening on port 63240
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615272233197	geckodriver	INFO	Listening on 127.0.0.1:57738
+1615272233711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilelF0pb2"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615272236250	Marionette	INFO	Listening on port 57743
+1615272236367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615272270036	Marionette	INFO	Stopped listening on port 57743
+1615273656572	geckodriver	INFO	Listening on 127.0.0.1:64910
+1615273657089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilefntZCn"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615273659481	Marionette	INFO	Listening on port 64915
+1615273659773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615273693319	geckodriver	INFO	Listening on 127.0.0.1:64970
+1615273693825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileLlcNl0"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615273696099	Marionette	INFO	Listening on port 64975
+1615273696493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615273811876	geckodriver	INFO	Listening on 127.0.0.1:50138
+1615273812382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofiler7fg5Z"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615273815103	Marionette	INFO	Listening on port 50143
+1615273815541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615273836613	geckodriver	INFO	Listening on 127.0.0.1:50209
+1615273837116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilenVzmDg"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615273839397	Marionette	INFO	Listening on port 50214
+1615273839769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615274032845	geckodriver	INFO	Listening on 127.0.0.1:50336
+1615274033367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilezUuFq3"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615274035986	Marionette	INFO	Listening on port 50341
+1615274036044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615274062925	Marionette	INFO	Stopped listening on port 50341
+1615274137226	geckodriver	INFO	Listening on 127.0.0.1:50411
+1615274137740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile4xLhRO"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615274141788	Marionette	INFO	Listening on port 50416
+1615274141933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615274468745	geckodriver	INFO	Listening on 127.0.0.1:61041
+1615274469254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilechuGCg"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615274473259	Marionette	INFO	Listening on port 61046
+1615274473412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615274886519	geckodriver	INFO	Listening on 127.0.0.1:61199
+1615274887039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileJHVOWC"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615274891045	Marionette	INFO	Listening on port 61204
+1615274891246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615274891787	Marionette	INFO	Stopped listening on port 61204
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615274943743	geckodriver	INFO	Listening on 127.0.0.1:61244
+1615274944270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilem67PIo"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615274948146	Marionette	INFO	Listening on port 61249
+1615274948418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615274948955	Marionette	INFO	Stopped listening on port 61249
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615274973986	geckodriver	INFO	Listening on 127.0.0.1:61291
+1615274974504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileLP6OJL"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615274978201	Marionette	INFO	Listening on port 61296
+1615274978705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615275222687	geckodriver	INFO	Listening on 127.0.0.1:61364
+1615275223396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilee7Ppzm"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615275270048	geckodriver	INFO	Listening on 127.0.0.1:61396
+1615275270555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilelKeN3E"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615275272777	Marionette	INFO	Listening on port 61401
+1615275273200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615275273814	Marionette	INFO	Stopped listening on port 61401
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1615275293264	geckodriver	INFO	Listening on 127.0.0.1:61844
+1615275293792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileg0FIhT"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615275296115	Marionette	INFO	Listening on port 61849
+1615275296459	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615276400817	geckodriver	INFO	Listening on 127.0.0.1:51668
+1615276401327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileXFPSlU"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615276404187	Marionette	INFO	Listening on port 51673
+1615276404508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615276405118	Marionette	INFO	Stopped listening on port 51673
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1615276424431	geckodriver	INFO	Listening on 127.0.0.1:51712
+1615276424952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileQX6Fzy"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615276426974	Marionette	INFO	Listening on port 51717
+1615276427103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615276634733	Marionette	INFO	Stopped listening on port 51717
+1615277267216	geckodriver	INFO	Listening on 127.0.0.1:51984
+1615277267722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile3FeXLM"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615277270481	Marionette	INFO	Listening on port 51989
+1615277270900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615278928737	geckodriver	INFO	Listening on 127.0.0.1:49992
+1615278929307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileGEUDGP"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615278932772	Marionette	INFO	Listening on port 49998
+1615278933561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615280482213	geckodriver	INFO	Listening on 127.0.0.1:53594
+1615280482712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileXEh0Jh"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280485900	Marionette	INFO	Listening on port 53599
+1615280486364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615280530016	Marionette	INFO	Stopped listening on port 53599
+1615280586452	geckodriver	INFO	Listening on 127.0.0.1:53667
+1615280587146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilevqMdMl"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280592051	Marionette	INFO	Listening on port 53672
+1615280592547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: resource://devtools/server/actors/inspector/event-collector.js, line 530: debuggee 'http://gzcx.sthjj.beijing.gov.cn/monitor-pub/js/jquery-1.8.0.min.js:2' would run
+1615280941358	Marionette	INFO	Stopped listening on port 53672
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615280957280	geckodriver	INFO	Listening on 127.0.0.1:53933
+1615280957778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile59Agww"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280963015	Marionette	INFO	Listening on port 53938
+1615280963529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615281024545	geckodriver	INFO	Listening on 127.0.0.1:59842
+1615281025053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilemYfT0H"
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615281029748	Marionette	INFO	Listening on port 59847
+1615281029816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615281055413	Marionette	INFO	Stopped listening on port 59847
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615353504552	geckodriver	INFO	Listening on 127.0.0.1:50891
+1615353505037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilekpvOhz"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1615353510280	Marionette	INFO	Listening on port 50896
+1615353510414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615353510888	Marionette	INFO	Stopped listening on port 50896
+1615353552730	geckodriver	INFO	Listening on 127.0.0.1:59039
+1615353553246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile2jxvq8"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615353556536	Marionette	INFO	Listening on port 59047
+1615353556946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615363893094	Marionette	INFO	Stopped listening on port 59047
+1615384456652	geckodriver	INFO	Listening on 127.0.0.1:51835
+1615384457174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile3Qj9jW"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615384465799	Marionette	INFO	Listening on port 51840
+1615384466005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615384466256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: Region.jsm: "Error fetching region" (new SyntaxError("JSON.parse: unexpected character at line 1 column 1 of the JSON data", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1615384467682	Marionette	INFO	Stopped listening on port 51840
+1615384557544	geckodriver	INFO	Listening on 127.0.0.1:55940
+1615384558064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileQxvtNb"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615384561168	Marionette	INFO	Listening on port 55946
+1615384561251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile1PuOzZ"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615384680228	Marionette	INFO	Listening on port 56053
+1615384680336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/c9f17501-5c03-42d3-a0f6-be15856ddaf5.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/c9f17501-5c03-42d3-a0f6-be15856ddaf5.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615390455012	Marionette	INFO	Stopped listening on port 56053
+1615432950596	geckodriver	INFO	Listening on 127.0.0.1:54121
+1615432951103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileUtcvKB"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615432953929	Marionette	INFO	Listening on port 54126
+1615432954274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/EAA0B0C4-06AA-4F12-83AF-3C0378B70ABB.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/EAA0B0C4-06AA-4F12-83AF-3C0378B70ABB.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615434183012	Marionette	INFO	Stopped listening on port 54126
+1615442033981	geckodriver	INFO	Listening on 127.0.0.1:62130
+1615442034511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileOLTRqk"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615442037625	Marionette	INFO	Listening on port 62135
+1615442037797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/EAA0B0C4-06AA-4F12-83AF-3C0378B70ABB.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/EAA0B0C4-06AA-4F12-83AF-3C0378B70ABB.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615443079570	geckodriver	INFO	Listening on 127.0.0.1:62418
+1615443080099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilezzovet"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615443082475	Marionette	INFO	Listening on port 62423
+1615443082761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/4CA39F3B-BBF1-4033-867C-63F1148F230A.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/4CA39F3B-BBF1-4033-867C-63F1148F230A.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilelbhW5Y"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615443117553	Marionette	INFO	Listening on port 62502
+1615443117609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/B243EBA7-CDA8-47F1-86AD-3397FF167101.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/B243EBA7-CDA8-47F1-86AD-3397FF167101.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilen7zs82"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615443187141	Marionette	INFO	Listening on port 62591
+1615443187515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/B243EBA7-CDA8-47F1-86AD-3397FF167101.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/B243EBA7-CDA8-47F1-86AD-3397FF167101.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileU5hDBU"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615443310052	Marionette	INFO	Listening on port 62682
+1615443310202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/B243EBA7-CDA8-47F1-86AD-3397FF167101.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/B243EBA7-CDA8-47F1-86AD-3397FF167101.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615444427661	geckodriver	INFO	Listening on 127.0.0.1:63001
+1615444428173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofiletj1oG8"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615444430958	Marionette	INFO	Listening on port 63006
+1615444431329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/5eb42b88-cfb7-4480-be2a-9fde764522ac.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/5eb42b88-cfb7-4480-be2a-9fde764522ac.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615444702550	Marionette	INFO	Stopped listening on port 63006
+1615444759983	geckodriver	INFO	Listening on 127.0.0.1:63134
+1615444760514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile8792qg"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615444762841	Marionette	INFO	Listening on port 63139
+1615444763170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/D82EEE32-7428-4DA9-9337-67DBD9F71C29.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/D82EEE32-7428-4DA9-9337-67DBD9F71C29.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615445350762	geckodriver	INFO	Listening on 127.0.0.1:59556
+1615445351272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilegHRLaG"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615445354313	Marionette	INFO	Listening on port 59561
+1615445354430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/9CD5E5D5-2975-47C1-9092-2B23BBFFCA30.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/9CD5E5D5-2975-47C1-9092-2B23BBFFCA30.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615445741880	Marionette	INFO	Stopped listening on port 59561
+1615445982197	geckodriver	INFO	Listening on 127.0.0.1:62386
+1615445982719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile7xRA9m"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615445984900	Marionette	INFO	Listening on port 62391
+1615445984978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/34E92B28-39A7-40EA-A9EE-4E57B9507D95.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/34E92B28-39A7-40EA-A9EE-4E57B9507D95.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615447663025	Marionette	INFO	Stopped listening on port 62391
+1615447862873	geckodriver	INFO	Listening on 127.0.0.1:49176
+1615447863415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileFEkmWR"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615447866726	Marionette	INFO	Listening on port 49181
+1615447867099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615447879580	Marionette	INFO	Stopped listening on port 49181
+1615448043343	geckodriver	INFO	Listening on 127.0.0.1:49281
+1615448043873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilettcuRB"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615448045950	Marionette	INFO	Listening on port 49287
+1615448046048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615448057932	Marionette	INFO	Stopped listening on port 49287
+1615448441457	geckodriver	INFO	Listening on 127.0.0.1:49383
+1615448441997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile1Y5DyZ"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615448445041	Marionette	INFO	Listening on port 49388
+1615448445193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615448458235	Marionette	INFO	Stopped listening on port 49388
+1615448491523	geckodriver	INFO	Listening on 127.0.0.1:49449
+1615448492083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileEtYt5l"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615448494350	Marionette	INFO	Listening on port 49455
+1615448494776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615448513039	Marionette	INFO	Stopped listening on port 49455
+1615448540332	geckodriver	INFO	Listening on 127.0.0.1:49530
+1615448540853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileS4ogXX"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615448543142	Marionette	INFO	Listening on port 49536
+1615448543539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615448555938	Marionette	INFO	Stopped listening on port 49536
+1615448674228	geckodriver	INFO	Listening on 127.0.0.1:49603
+1615448674788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilebZBBVK"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615448676961	Marionette	INFO	Listening on port 49608
+1615448677483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615448689496	Marionette	INFO	Stopped listening on port 49608
+1615448707537	geckodriver	INFO	Listening on 127.0.0.1:49685
+1615448708067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileHMpLEb"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615448711669	Marionette	INFO	Listening on port 49690
+1615448711798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:69
+unregisterCommandsActor@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:395:15
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:3009:5
+onClosed@chrome://marionette/content/server.js:196:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileHFxr8O"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615448770930	Marionette	INFO	Listening on port 49889
+1615448771272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615448814874	Marionette	INFO	Stopped listening on port 49889
+1615448981421	geckodriver	INFO	Listening on 127.0.0.1:49974
+1615448981941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofile3811nL"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615448984558	Marionette	INFO	Listening on port 49979
+1615448984637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_jbxx/6A50A1F5-9E83-44CA-A64A-4DD5326CB6A9.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615449657455	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1615451795493	Marionette	INFO	Stopped listening on port 49979
+1615454469318	geckodriver	INFO	Listening on 127.0.0.1:56997
+1615454469827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileN938CS"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615454472803	Marionette	INFO	Listening on port 57002
+1615454473020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/2f0345dd-30b1-4e7f-9d00-06ac6ba1692c.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+Exiting due to channel error.
+1615519134473	geckodriver	INFO	Listening on 127.0.0.1:52788
+1615519135000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileum4ory"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615519137334	Marionette	INFO	Listening on port 52794
+1615519137648	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615519159083	Marionette	INFO	Stopped listening on port 52794
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 1532, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615519187119	geckodriver	INFO	Listening on 127.0.0.1:52950
+1615519187692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofilerWGtx4"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615519190561	Marionette	INFO	Listening on port 52955
+1615519190938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/860d79e3-63ae-4878-84af-b0a54f8ac3ac.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/860d79e3-63ae-4878-84af-b0a54f8ac3ac.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+1615606522389	geckodriver	INFO	Listening on 127.0.0.1:62545
+1615606522880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileW9J9lg"
+*** You are running in headless mode.
+1615606534924	geckodriver	INFO	Listening on 127.0.0.1:62595
+1615606535436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileJ9Ugkd"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615606538535	Marionette	INFO	Listening on port 62601
+1615606538672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/860d79e3-63ae-4878-84af-b0a54f8ac3ac.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/860d79e3-63ae-4878-84af-b0a54f8ac3ac.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Listening on 127.0.0.1:62674
+1615606560985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tuoyi\\AppData\\Local\\Temp\\rust_mozprofileu5djgC"
+*** You are running in headless mode.
+JavaScript error: k1bdaq5d0qa.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615606563424	Marionette	INFO	Listening on port 62679
+1615606563703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/29f034f6-677c-4506-84eb-4fbea24efa4b.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://gzcx.sthjj.beijing.gov.cn/monitor-pub/org_zdjc/29f034f6-677c-4506-84eb-4fbea24efa4b.do line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615649071657	Marionette	INFO	Stopped listening on port 62679
